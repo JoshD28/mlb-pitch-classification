@@ -1,8 +1,8 @@
 # MLB Pitch Classification
 
-This repository contains a course lab focused on **classifying MLB pitch types** using **pitch-level tracking data** and **supervised learning methods**. The goal is to build, evaluate, and interpret a classification model that predicts pitch type based on physical and movement characteristics.
+This repository focused on **classifying MLB pitch types** using **pitch-level tracking data** and **supervised learning methods**. The goal is to build, evaluate, and interpret a classification model that predicts pitch type based on physical and movement characteristics.
 
-## Lab Goals
+##Goals
 1. **Build a pitch classification model** to predict pitch type using pitch-level tracking variables.
 2. **Preprocess and engineer features** relevant to pitch movement and release characteristics.
 3. **Evaluate model performance** using appropriate classification metrics.
@@ -51,5 +51,5 @@ This repository contains a course lab focused on **classifying MLB pitch types**
 - scikit-learn
 
 ## Notes
-This lab focuses on **pitch type classification**, not pitcher intent or deception.  
+The focus is on **pitch type classification**, not pitcher intent or deception.  
 Model performance reflects separability of pitch types based on available tracking features.
