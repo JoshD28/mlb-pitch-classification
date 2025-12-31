@@ -2,7 +2,7 @@
 
 This repository focused on **classifying MLB pitch types** using **pitch-level tracking data** and **supervised learning methods**. The goal is to build, evaluate, and interpret a classification model that predicts pitch type based on physical and movement characteristics.
 
-##Goals
+## Goals
 1. **Build a pitch classification model** to predict pitch type using pitch-level tracking variables.
 2. **Preprocess and engineer features** relevant to pitch movement and release characteristics.
 3. **Evaluate model performance** using appropriate classification metrics.
